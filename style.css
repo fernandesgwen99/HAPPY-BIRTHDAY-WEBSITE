@@ -301,18 +301,4 @@ p {
   h1 {
     font-size: 2rem;
   }
-
 } 
-.topp-right {
-  top: 1px;
-  right: 20px;
-  transform: rotate(8deg);
-  animation: float2 5s ease-in-out infinite;
-}
-
-.botttom-left {
-  bottom:1px;
-  left:1px;
-  transform: rotate(-17deg);
-  animation: float3 6s ease-in-out infinite;
-}  
